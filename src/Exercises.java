@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Exercises {
-//df
+//dfasdasd
 	public int findMe(int[] list, int target) {
 
 		if (list == null || list.length == 0) {
